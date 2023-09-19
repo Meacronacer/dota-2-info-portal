@@ -1,0 +1,88 @@
+
+
+.random-hero-blocks {
+    height: 270px;
+    margin:0 120px;
+    max-width: 1280px;
+}
+
+.random-hero-info, .random-hero-btn {
+    min-width: 50%;
+}
+
+
+.random-hero-blocks, .random-hero-info, .random-hero-btn {
+    box-shadow:
+    inset 0 -3em 3em rgba(0, 0, 0, 0.1),
+    0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+
+.rigth-answer {
+    border: 5px solid green;
+}
+
+.wrong-answer {
+    border: 5px solid red;
+}
+
+.random-hero-img {
+    height: 127px;
+    width: 225px;
+    padding: 10px 20px 0px;
+}
+
+.choose-hero-answer {
+    margin: 10px 10px;
+}
+
+.choose-hero-answer button {
+    cursor: pointer;
+    background-size: 177px 100px;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 165px;
+}
+
+.random-hero-btn {
+    background-color: #232222;
+    color: white;
+}
+
+.random-hero-btn-wrapper {
+    padding: 0 20px;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    width: 90%;
+    height: 90%;
+}
+
+
+.try {
+    color: red;
+    position: absolute;
+    bottom: -5px;
+}
+
+.end {
+    background-color: grey;
+    color:antiquewhite;
+    position: absolute;
+    bottom: -5px;
+    left: 120px;
+}
+
+.text2 {
+    position: absolute;
+    bottom: 30px;
+}
+
+.random-hero-stats img {
+    height: 30px;
+}
+
+.rules-text {
+    font-size: 18px;
+    font-weight: 400;
+}

@@ -1,0 +1,22 @@
+
+.header {
+    margin: 0px 150px;
+    margin-bottom: 55px;
+    padding-top: 55px;
+    max-width: 1220px;
+}
+
+
+.header-p {
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.header-p + .header-p{
+    margin-left: 10px;
+}
+
+.h-heroes {
+    color: red;
+}

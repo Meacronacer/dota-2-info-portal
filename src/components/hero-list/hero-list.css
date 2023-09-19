@@ -1,0 +1,14 @@
+
+
+.container {
+    margin-left: 50px;
+    max-width: 1035px;
+    margin-bottom: 40px;
+}
+
+.row {
+    margin-left: 60px;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    min-width: 1000px;
+}
