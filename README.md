@@ -1,3 +1,11 @@
+dota-2-info-portal
+This is dota 2 info portal heroes / items on React js, with using open dota api
+
+Now I’m taking a course on React and in the video the author made another website using the Marvel Comics API, but I didn’t want to do it like in the video and decided to create a different website for the game Dota 2, using the open Dota API, but I’ll do it soon Marvel too)
+
+in the project I used 70% of what I learned during the course, I myself understand that the code is not optimized, I still need to finish the items tab and connect a react router to create pages for each hero and many other things I'm sure the code can be improved, but so far I don't have enough knowledge( so for now I decided to upload what I have to github and return to create a marvel project and then continue this project after finishing the marvel project
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
